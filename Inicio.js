@@ -60,7 +60,7 @@ const Inicio = ({navigation}) => {
     <View style={styles.container}>
         <ScrollView contentContainerStyle= {styles.container}>
             <KeyboardAvoidingView></KeyboardAvoidingView>
-            <Text style = {styles.Title1}> Bienvenido a Fallproune my pana</Text>
+            <Text style = {styles.Title1}> Bienvenido a Fallproune my causa</Text>
             <Text styles = {styles.Title2}>@fallproune en Youtube</Text>      
             <Text style= {{
                 marginBottom: 50
