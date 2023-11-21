@@ -70,7 +70,7 @@ const Inicio = ({navigation}) => {
                 fontWeight: 'bold',
                 fontSize: '18'
             }}>Nombre de usuario</Text>
-            <TextInput onChangeText={(text)=> setUsername(text)} placeholder='Ingresa tu nombre de usuario' style = {styles.TextInput} ></TextInput>
+            <TextInput onChangeText={(text)=> setUsername(text)} placeholder='Ingresa tu username' style = {styles.TextInput} ></TextInput>
             <Text style= {{
                 marginBottom: 10,
                 fontWeight: 'bold',
